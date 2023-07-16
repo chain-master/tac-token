@@ -19,9 +19,9 @@ We aim to shape the future of games of chance with new technologies and to stric
 # Announcements
 Presale, Fair Launch, AirDrop, and all other events we will organize will only be announced on our social media accounts and official website. Stay tuned.
 
-Telegram: https://t.me/taccoin/
-Twitter: https://twitter.com/tossacoin/
-Web: https://tossacoin.app/
+- Telegram: https://t.me/taccoin/
+- Twitter: https://twitter.com/tossacoin/
+- Web: https://tossacoin.app/
 
 # What is TAC token?
 The "Toss a Coin," abbreviated as TAC, is an ERC-20 standard token developed on the Binance Smart Chain (BSC) network. TAC is the primary currency for calculating user game fees, rewards, and commissions. However, users can choose any token traded on the blockchain network to play the game. Please refer to the "How to Play" section for more details.
