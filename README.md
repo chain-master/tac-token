@@ -132,7 +132,7 @@ The player who does not comply with the rule will be penalized with a 30% penalt
 We want to mention that the priorities and sequence of these steps may vary due to unforeseen major developments, changes, or new research in finance, blockchain, and web technologies. 
 
 Below is our roadmap:
-- Q1, 2023
+- Q4, 2022
 -- Start of the Toss a Coin Platform Development.
 -- Created smart contract on BNB Smart Chain.
 - Q2, 2023
