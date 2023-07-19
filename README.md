@@ -27,12 +27,12 @@ Presale, Fair Launch, AirDrop, and all other events we will organize will only b
 The "Toss a Coin," abbreviated as TAC, is an ERC-20 standard token developed on the Binance Smart Chain (BSC) network. TAC is the primary currency for calculating user game fees, rewards, and commissions. However, users can choose any token traded on the blockchain network to play the game. Please refer to the "How to Play" section for more details.
 
 # Tokenomics
-- Total Supply: 100 Million
-- Liquidity: 15 Million (15%)
-- Marketing: 15 Million (15%)
-- Number of tokens for sale: 30 Million (30%)
-- Advisors: 5 Million (5%)
-- Listings, CEX, Staking & Rewards: 35 Million (35%)
+- Total Supply: 1 Billion
+- Liquidity: 150 Million (15%)
+- Marketing: 150 Million (15%)
+- Number of tokens for sale: 300 Million (30%)
+- Advisors: 50 Million (5%)
+- Listings, CEX, Staking & Rewards: 350 Million (35%)
 
 # What are the advantages of owning TAC token?
 TAC token holders enjoy various advantages, including but not limited to the following;
