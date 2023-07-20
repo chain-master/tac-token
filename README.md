@@ -132,10 +132,11 @@ The player who does not comply with the rule will be penalized with a 30% penalt
 We want to mention that the priorities and sequence of these steps may vary due to unforeseen major developments, changes, or new research in finance, blockchain, and web technologies. 
 
 Below is our roadmap:
-- Q4, 2022
+- Q3, 2022
 -- Start of the Toss a Coin Platform Development.
+- Q1, 2023
 -- Created smart contract on BNB Smart Chain.
-- Q2, 2023
+- Q2, 2023  
 -- Start playground(Dapp) area development.
 - Q3, 2023
 -- Start Social Platforms (Twitter, Telegram)
@@ -143,8 +144,7 @@ Below is our roadmap:
 -- Private Sell
 -- Public Sell
 -- Listing on DEX
-- Q4, 2023 
--- Listing on CEXs
+- Q3, 2023 
 -- Start Development for other mini-games
 
 # Disclaimer
