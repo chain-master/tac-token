@@ -37,7 +37,7 @@ The "Toss a Coin," abbreviated as TAC, is an ERC-20 standard token developed on 
 # What are the advantages of owning TAC token?
 TAC token holders enjoy various advantages, including but not limited to the following;
 
-You won't have to pay commissions if you play our GameFi games with TAC. (Note: Other coins incur an 8% commission on the total prize amount for the winning player.)
+You won't have to pay commissions if you play our GameFi games with TAC. (Note: Other coins incur an 10% commission on the total prize amount for the winning player.)
 We may plan to organize reward-based giveaways and distribute NFT gifts for loyal TAC holders. You can follow our announcements regarding such matters on our social media accounts.
 By purchasing TAC, you secure your place in the future with a project offering high goals and significant investment opportunities.
 
