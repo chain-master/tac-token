@@ -4,7 +4,7 @@
 TAC incorporates future technologies such as GameFi, DeFi, DApp, and NFT.
 
 # Our Mission
-To provide a safe and fair gaming environment for those who love chance games. And while doing so, benefiting from all the advantages of blockchain and web3 technologies.
+To provide a safe and fair gaming environment for those who love games of chance. And while doing so, benefiting from all the advantages of blockchain and web3 technologies.
 
 # Our Vision
 We aim to shape the future of games of chance with new technologies and to strictly adhere to the principles of complete decentralization, transparency, and security while providing a unique gaming experience to our Users.
@@ -17,7 +17,7 @@ We aim to shape the future of games of chance with new technologies and to stric
 - Offering innovative and unique gaming experiences.
 
 # Announcements
-Presale, Fair Launch, AirDrop, and all other events we will organize will only be announced on our social media accounts and official website. Stay tuned.
+Presale, Fair Launch, AirDrop, and all other events will only be announced on our social media accounts and official website. Stay tuned.
 
 - Telegram: https://t.me/taccoin/
 - Twitter: https://twitter.com/tossacoin/
@@ -37,7 +37,7 @@ The "Toss a Coin," abbreviated as TAC, is an ERC-20 standard token developed on 
 # What are the advantages of owning TAC token?
 TAC token holders enjoy various advantages, including but not limited to the following;
 
-You won't have to pay commissions if you play our GameFi games with TAC. (Note: Other coins incur an 10% commission on the total prize amount for the winning player.)
+You won't have to pay commissions if you play our GameFi games with TAC. (Note: Other coins incur a 10% commission on the total prize amount for the winning player.)
 We may plan to organize reward-based giveaways and distribute NFT gifts for loyal TAC holders. You can follow our announcements regarding such matters on our social media accounts.
 By purchasing TAC, you secure your place in the future with a project offering high goals and significant investment opportunities.
 
@@ -52,13 +52,13 @@ You can play "Toss a Coin" for free by accessing https://app.tossacoin.app using
 TAC is a DApp-GameFi project that operates on the blockchain. It means you can play it on any smart device, including computers, tablets, and mobile phones, as long as you have internet access.
 
 # Is it safe to play "Toss a Coin"?
-TAC is a chance game that operates on the BSC blockchain network, utilizing open-source code and being decentralized. You can monitor all the games played on the platform. And you can view all transaction records at https://bscscan.com/.
+TAC is a game of chance that operates on the BSC blockchain network, utilizing open-source code and being decentralized. You can monitor all the games played on the platform. And you can view all transaction records at https://bscscan.com/.
 
 # Is there a fee to play "Toss a Coin"?
 TAC is a completely free game of chance.
 
 # How much is the transaction fee on BSC?
-TAC is a completely free chance game. Transactions are added to the blockchain by the players to ensure maximum security and transparency while playing the game. To play the game, you must have enough balance in your BNB wallet to cover the network fee. (Note: The average network cost per game is $0.05 - $0.1. It may vary depending on network conditions.)
+TAC is a completely free game of chance. Transactions are added to the blockchain by the players to ensure maximum security and transparency while playing the game. To play the game, you must have enough balance in your BNB wallet to cover the network fee. (Note: The average network cost per game is $0.05 - $0.1. It may vary depending on network conditions.)
 
 # Which token can I use to open a game?
 You can open a game using your TAC tokens or any tokens operating on the BSC network.
