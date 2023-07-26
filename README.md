@@ -140,11 +140,12 @@ Below is our roadmap:
 -- Start playground(Dapp) area development.
 - Q3, 2023
 -- Start Social Platforms (Twitter, Telegram)
+- Q4, 2023  
 -- Meeting with Advisors
 -- Private Sell
 -- Public Sell
 -- Listing on DEX
-- Q3, 2023 
+- Q1, 2024 
 -- Start Development for other mini-games
 
 # Disclaimer
