@@ -140,12 +140,14 @@ Below is our roadmap:
 -- Start playground(Dapp) area development.
 - Q3, 2023
 -- Start Social Platforms (Twitter, Telegram)
-- Q4, 2023  
 -- Meeting with Advisors
+- Q2, 2024
+-- Launch "Toss a Coin - The Game" on BSC Mainnet  
+- Q3, 2024 
 -- Private Sell
 -- Public Sell
 -- Listing on DEX
-- Q1, 2024 
+- Q1, 2025
 -- Start Development for other mini-games
 
 # Disclaimer
