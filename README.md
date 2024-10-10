@@ -1,13 +1,13 @@
 # What Is TossACoin?
-"Toss a Coin" is a web3 mini d-app game project where you can test your luck in a decentralized and highly secure environment, operating on the Binance Smart Chain (BSC) network. 
+"Toss a Coin" is a cutting-edge web3 mini dApp game platforms where users can participate in a decentralized, secure, and transparent environment, running on the Binance Smart Chain (BSC) network. TAC leverages advanced technologies like GameFi, DeFi, DApp, and NFTs to create an engaging and innovative gaming experience.
 
-TAC incorporates future technologies such as GameFi, DeFi, DApp, and NFT.
+Beyond just a game, TossACoin serves as a unique promotional platform for influencers and brands. It allows influencers to create sponsored games to promote their projects or products, offering an interactive and rewarding experience for both participants and sponsors.
 
 # Our Mission
-To provide a safe and fair gaming environment for those who love games. And while doing so, benefiting from all the advantages of blockchain and web3 technologies.
+To offer a secure and fair gaming platform for enthusiasts, while also providing influencers with a powerful tool to promote their products or projects. We harness the full potential of blockchain and web3 technologies to enhance both gaming and promotional experiences.
 
 # Our Vision
-We aim to shape the future of games with new technologies and to strictly adhere to the principles of complete decentralization, transparency, and security while providing a unique gaming experience to our Users.
+We aspire to pioneer the future of gaming and digital marketing by integrating the latest technological advancements. With a commitment to full decentralization, transparency, and security, we aim to provide a distinctive and unparalleled experience that benefits influencers, sponsors, players, and the entire ecosystem.
 
 # Our Principles
 - Being decentralized.
@@ -15,6 +15,8 @@ We aim to shape the future of games with new technologies and to strictly adhere
 - Providing a fair, transparent, and reliable gaming environment.
 - Being sustainable.
 - Offering innovative and unique gaming experiences.
+- Empowering influencers to effectively promote their projects or products.
+- Providing sponsors with a creative and engaging way to reach their target audience.
 
 # Announcements
 Presale, Fair Launch, AirDrop, and all other events will only be announced on our social media accounts and official website. Stay tuned.
@@ -140,14 +142,14 @@ Below is our roadmap:
 -- Start playground(Dapp) area development.
 - Q3, 2023
 -- Start Social Platforms (Twitter, Telegram)
--- Meeting with Advisors
 - Q2, 2024
 -- Launch "Toss a Coin - The Game" on BSC Mainnet  
-- Q3, 2024 
+- Q4, 2024 
 -- Private Sell
+- Q1, 2025 
 -- Public Sell
--- Listing on DEX
-- Q1, 2025
+-- Listing on DEX  
+- Q2, 2025
 -- Start Development for other mini-games
 
 # Disclaimer
